@@ -1,2 +1,2 @@
 # test
-<a href="#"> Test </a>
+<a href="cma://sso/1"> Test </a>
